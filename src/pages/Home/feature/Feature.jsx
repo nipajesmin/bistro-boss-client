@@ -1,5 +1,5 @@
-import SectionTitle from "../../component/SectionTitle";
-import featuredImg from '../../assets/featured.jpg';
+import SectionTitle from "../../../component/SectionTitle";
+import featuredImg from '../../../assets/featured.jpg';
 import './feature.css';
 
 
